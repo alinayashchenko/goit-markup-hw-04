@@ -269,21 +269,16 @@ h6 {
 }
 
 .name {
-    padding-top: 32px;
+    padding: 32px 0;
     text-align: center;
-    background-color: #FFFFFF;
-}
-
-.icons-media {
-    padding-top: 8px;
-    padding-bottom: 32px;
     background-color: #FFFFFF;
 }
 
 .icons-media-list {
     display: flex;
     justify-content: center;
-    gap: 24px;   
+    gap: 24px;  
+    margin-top: 8px; 
 }
 
 .icons-main-link {
