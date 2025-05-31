@@ -147,7 +147,7 @@ h6 {
     background-color: #2e2f42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)), 
-        url(/images/background-image.jpg);
+        url(../images/background-image.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
